@@ -1,0 +1,121 @@
+text,priority,category
+Fire in hostel kitchen,High,Safety
+Electric spark from switch board,High,Safety
+Gas leakage in lab,High,Safety
+Short circuit in classroom,High,Safety
+Ceiling collapse in corridor,High,Safety
+Water leakage near electrical panel,High,Safety
+Broken staircase railing,High,Safety
+Severe water flooding in hostel,High,Safety
+Lab equipment explosion,High,Safety
+Live wire exposed in hallway,High,Safety
+Overheating computer causing smoke,High,Safety
+Emergency exit blocked,High,Safety
+Lift stuck with students inside,High,Safety
+Transformer blast near campus,High,Safety
+Chemical spill in lab,High,Safety
+Glass door shattered in entrance,High,Safety
+Severe roof leakage during rain,High,Safety
+Fire alarm not working,High,Safety
+Generator malfunction causing sparks,High,Safety
+Unsafe construction debris falling,High,Safety
+WiFi not working in classroom,Medium,Technical
+Projector not displaying properly,Medium,Technical
+Fan not working in lecture hall,Medium,Facility
+AC not cooling properly,Medium,Facility
+Broken chair in classroom,Medium,Facility
+Water cooler not functioning,Medium,Facility
+Library system not responding,Medium,Technical
+Printer not working in lab,Medium,Technical
+Lift not working,Medium,Facility
+Classroom lights flickering,Medium,Facility
+Computer system very slow,Medium,Technical
+Door lock broken in classroom,Medium,Facility
+Whiteboard damaged,Medium,Academic
+Internet disconnecting frequently,Medium,Technical
+Lab systems outdated,Medium,Technical
+Switch board loose,Medium,Safety
+Class timetable display not updated,Medium,Academic
+Noise disturbance in class,Medium,Academic
+Attendance system error,Medium,Technical
+Mic not working in seminar hall,Medium,Technical
+Mess food quality is bad,Low,Hostel
+Room cleaning not done,Low,Hostel
+Dustbin not emptied,Low,Hostel
+Slow internet in hostel,Low,Technical
+Water cooler taste is bad,Low,Facility
+Mess menu repetitive,Low,Hostel
+Fan making noise,Low,Facility
+Light bulb fused in room,Low,Facility
+Washroom not clean,Low,Hostel
+Minor leakage in bathroom,Low,Facility
+Window not closing properly,Low,Facility
+Bed is uncomfortable,Low,Hostel
+Paint peeling off wall,Low,Facility
+Slight smell in corridor,Low,Facility
+Books not arranged in library,Low,Academic
+Clock not working in classroom,Low,Academic
+Notice board not updated,Low,Academic
+Mess food is cold,Low,Hostel
+Chair slightly damaged,Low,Facility
+Low water pressure in tap,Low,Facility
+Fire extinguisher missing in lab,High,Safety
+Severe crack in building wall,High,Safety
+Electrical panel overheating,High,Safety
+Gas cylinder leakage in mess,High,Safety
+Short circuit in hostel room,High,Safety
+Broken glass causing injury risk,High,Safety
+Lift door malfunction,High,Safety
+Water flooding near server room,High,Safety
+Severe wiring issue in lab,High,Safety
+Ceiling fan fell down,High,Safety
+Projector occasionally turns off,Medium,Technical
+WiFi signal weak in library,Medium,Technical
+Computer mouse not working,Medium,Technical
+Keyboard malfunction in lab,Medium,Technical
+AC leaking water,Medium,Facility
+Broken desk in classroom,Medium,Facility
+Notice board glass cracked,Medium,Academic
+Water dispenser slow,Medium,Facility
+Library chairs uncomfortable,Medium,Facility
+Mic disturbance during lecture,Medium,Technical
+Mess food slightly oily,Low,Hostel
+Room light dim,Low,Facility
+Fan speed low,Low,Facility
+Water taste slightly off,Low,Facility
+Small stain on wall,Low,Facility
+Minor crack in desk,Low,Facility
+Curtains not clean,Low,Hostel
+Slow response from admin office,Low,Academic
+Queue system not proper,Low,Academic
+Minor noise in hostel corridor,Low,Hostel
+Emergency alarm not audible,High,Safety
+Loose wiring in corridor,High,Safety
+Fire exit locked,High,Safety
+Chemical smell in lab,High,Safety
+Broken lab equipment causing risk,High,Safety
+Overloaded power socket,High,Safety
+Ceiling water dripping near lights,High,Safety
+Lift sudden stop issue,High,Safety
+Unsafe balcony railing,High,Safety
+Electrical shock from switch,High,Safety
+Printer paper jam frequently,Medium,Technical
+WiFi disconnects during class,Medium,Technical
+Projector blur image,Medium,Technical
+Fan rotates slowly,Medium,Facility
+AC remote not working,Medium,Facility
+Library system lagging,Medium,Technical
+Classroom speaker not working,Medium,Technical
+Whiteboard marker not visible,Medium,Academic
+Door hinge broken,Medium,Facility
+Lab chair unstable,Medium,Facility
+Mess food less spicy,Low,Hostel
+Room slightly dusty,Low,Hostel
+Fan sound irritating,Low,Facility
+Tap dripping slowly,Low,Facility
+Notice board messy,Low,Academic
+Books misplaced in library,Low,Academic
+Minor delay in class start,Low,Academic
+Clock showing wrong time,Low,Academic
+Mess plates not clean properly,Low,Hostel
+Room ventilation low,Low,Facility
