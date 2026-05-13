@@ -1,34 +1,23 @@
 import streamlit as st
-import pandas as pd
 import datetime
-
-from sklearn.feature_extraction.text import TfidfVectorizer
-from sklearn.linear_model import LogisticRegression
+import pickle
+import os
 
 
 st.set_page_config(page_title="PriorityAI", page_icon="🧾", layout="centered")
 
 
-data = pd.read_csv("complaints.csv")
-
-X = data["text"]
-y_priority = data["priority"]
-y_category = data["category"]
-
-
-# VECTORIZATION
-
-vectorizer = TfidfVectorizer()
-X_vector = vectorizer.fit_transform(X)
-
-
-# TRAIN MODELS
-
-model_priority = LogisticRegression()
-model_priority.fit(X_vector, y_priority)
-
-model_category = LogisticRegression()
-model_category.fit(X_vector, y_category)
+# LOAD PRE-TRAINED MODELS
+try:
+    with open("vectorizer.pkl", "rb") as f:
+        vectorizer = pickle.load(f)
+    with open("model_priority.pkl", "rb") as f:
+        model_priority = pickle.load(f)
+    with open("model_category.pkl", "rb") as f:
+        model_category = pickle.load(f)
+except FileNotFoundError:
+    st.error("Model files not found! Please run `python train_model.py` first.")
+    st.stop()
 
 
 # UI DESIGN
