@@ -119,3 +119,736 @@ Minor delay in class start,Low,Academic
 Clock showing wrong time,Low,Academic
 Mess plates not clean properly,Low,Hostel
 Room ventilation low,Low,Facility
+Elevator dropping suddenly by a few inches in Sports Ground,High,Safety
+AC unit making loud rattling noise in Visitor Lounge,Low,Facility
+Ethernet port not working in Research Lab,Medium,Technical
+Audio system completely mute in Research Lab,Medium,Technical
+Pest control needed urgently in Visitor Lounge,Medium,Facility
+Computers infected with malware in Language Lab,High,Technical
+Stray dog roaming dangerously near Hostel Block A,Medium,Safety
+First aid kit empty in Hostel Block A,Medium,Safety
+First aid kit empty in Library Archives,Medium,Safety
+Smoke detector continuously beeping in Chemistry Lab,Medium,Safety
+Server unreachable from Seminar Room,High,Technical
+Drinking water filter choked in Staircase C,Medium,Facility
+Garbage overflowing in Visitor Lounge bins,Low,Facility
+No hot water in winter morning at Hostel Terrace,Medium,Hostel
+Strange chemical smell from Admin Building,High,Safety
+Ceiling fan regulator broken in Main Corridor,Low,Facility
+Curtains missing from Boys Hostel Wing C,Low,Hostel
+Drinking water tastes metallic in Hostel Room 302,Medium,Hostel
+Corridor lights flickering constantly in Ground Floor Washroom,Low,Facility
+Assignment submission link not working for Registrar Office,High,Academic
+Drinking water tastes metallic in Hostel Reading Room,Medium,Hostel
+Mess food found with insects in Hostel Gym,High,Hostel
+Constant internet fluctuations in Language Lab,Medium,Technical
+Lab manual outdated for Central Library practicals,Low,Academic
+Washing machine entirely broken in Warden Office,Medium,Hostel
+Constant internet fluctuations in Faculty Cabin,Medium,Technical
+Microphone heavily echoing in Lecture Hall 4,Medium,Technical
+Reference books completely unavailable for Dean's Office,Medium,Academic
+Anti-ragging helpline number not picking up,High,Safety
+Foul smell of gas near Admin Building,High,Safety
+Several broken chairs left in Gymnasium,Low,Facility
+Audio system completely mute in Lecture Hall 4,Medium,Technical
+Software license expired on PCs in Lecture Hall 4,Medium,Technical
+Deep crack observed in the ceiling of Cafeteria Kitchen,High,Safety
+Notice board fully covered with old notices in Central Library,Low,Academic
+CCTV camera completely broken in Library Archives,Medium,Safety
+Assignment submission link not working for First Year Block,High,Academic
+Water cooler completely dry in Main Corridor,Medium,Facility
+Wardrobe lock broken in Guest House,Low,Hostel
+Mess worker misbehaving in Common TV Room,Medium,Hostel
+Desk surface heavily damaged in Visitor Lounge,Low,Facility
+Smoke detector continuously beeping in Sports Ground,Medium,Safety
+Broken window glass scattered in Server Room,High,Safety
+Computers infected with malware in Research Lab,High,Technical
+Fire extinguisher expired in Basement Parking,High,Safety
+Strange chemical smell from Chemistry Lab,High,Safety
+Sparks coming from socket in Hostel Block A,High,Safety
+Milk served is spoiled in Hostel Terrace,High,Hostel
+Exam schedule conflict announced in Department of Physics,High,Academic
+Server unreachable from Media Room,High,Technical
+Roof tiles falling off near Cafeteria Kitchen,High,Safety
+Microphone heavily echoing in Faculty Cabin,Medium,Technical
+Assignment submission link not working for Department of Physics,High,Academic
+Several broken chairs left in Main Corridor,Low,Facility
+Mess worker misbehaving in Warden Office,Medium,Hostel
+Not enough seating for students in Dean's Office,Medium,Academic
+Stray cats entering Boys Hostel Wing C,Low,Hostel
+Loud construction noise disturbing Warden Office,Medium,Hostel
+Foul smell coming from washrooms near Recreation Room,Medium,Facility
+Stray cats entering Hostel Reading Room,Low,Hostel
+Professor unavailable for scheduled doubt session in MBA Block,Medium,Academic
+Lab manual outdated for Registrar Office practicals,Low,Academic
+Printer out of ink in Computer Lab 1,Low,Technical
+Lab manual outdated for Student Affairs Office practicals,Low,Academic
+UPS battery dead in Faculty Cabin,High,Technical
+Library portal showing incorrect late fees for Math Department students,Medium,Academic
+Fire extinguisher expired in Main Auditorium,High,Safety
+Pest control needed urgently in Ground Floor Washroom,Medium,Facility
+Elevator dropping suddenly by a few inches in Cafeteria Kitchen,High,Safety
+Whiteboard deeply scratched in Canteen Area,Low,Facility
+Strange chemical smell from Server Room,High,Safety
+Library portal showing incorrect late fees for First Year Block students,Medium,Academic
+Window blinds torn and stuck in Main Corridor,Low,Facility
+Water logging near Recreation Room,Medium,Facility
+No lighting in emergency stairwell of Server Room,High,Safety
+Biometric attendance scanner offline in Lecture Hall 4,High,Technical
+UPS battery dead in Seminar Room,High,Technical
+Emergency exit door stuck in Sports Ground,High,Safety
+First aid kit empty in Chemistry Lab,Medium,Safety
+Mess food found with insects in Hostel Laundry Room,High,Hostel
+Milk served is spoiled in Girls Hostel Mess,High,Hostel
+Deep crack observed in the ceiling of Sports Ground,High,Safety
+Sparks coming from socket in Basement Parking,High,Safety
+Server unreachable from Library Reading Room,High,Technical
+Assignment submission link not working for Math Department,High,Academic
+Professor unavailable for scheduled doubt session in Department of Physics,Medium,Academic
+Biohazard waste not disposed of properly in Hostel Block A,High,Safety
+Exam schedule conflict announced in Student Affairs Office,High,Academic
+Printer out of ink in Server Farm,Low,Technical
+Mess food found with insects in Hostel Reading Room,High,Hostel
+Server unreachable from Server Farm,High,Technical
+Drinking water tastes metallic in Guest House,Medium,Hostel
+Roof tiles falling off near Basement Parking,High,Safety
+Pest control needed urgently in Sports Complex,Medium,Facility
+Mess worker misbehaving in Hostel Reading Room,Medium,Hostel
+Smoke detector continuously beeping in Main Auditorium,Medium,Safety
+Software license expired on PCs in Media Room,Medium,Technical
+Lab manual outdated for Dean's Office practicals,Low,Academic
+Unsecured heavy equipment in Sports Ground,High,Safety
+Printer out of ink in Seminar Room,Low,Technical
+Loud event disturbing lectures in First Year Block,Medium,Academic
+Stray dog roaming dangerously near Admin Building,Medium,Safety
+Water cooler completely dry in Gymnasium,Medium,Facility
+Professor unavailable for scheduled doubt session in Dean's Office,Medium,Academic
+Several broken chairs left in Staircase C,Low,Facility
+Assignment submission link not working for Placement Cell,High,Academic
+Elevator dropping suddenly by a few inches in Main Gate,High,Safety
+Smartboard touch not responding in Computer Lab 1,Medium,Technical
+Audio system completely mute in CAD Lab,Medium,Technical
+Mess food found with insects in Warden Office,High,Hostel
+Exposed electrical wires hanging in Chemistry Lab,High,Safety
+Chalk and dusters missing from Student Affairs Office,Low,Academic
+Biometric attendance scanner offline in Computer Lab 1,High,Technical
+Library portal showing incorrect late fees for Registrar Office students,Medium,Academic
+Assignment submission link not working for Student Affairs Office,High,Academic
+Water cooler completely dry in Staff Room,Medium,Facility
+Drinking water filter choked in Sports Complex,Medium,Facility
+Fire alarm drill causing unnecessary panic without warning,Medium,Safety
+Broken window glass scattered in Admin Building,High,Safety
+Garbage overflowing in Staff Room bins,Low,Facility
+Software license expired on PCs in Seminar Room,Medium,Technical
+Window blinds torn and stuck in Visitor Lounge,Low,Facility
+Constant internet fluctuations in Lecture Hall 4,Medium,Technical
+Loud event disturbing lectures in Department of Physics,Medium,Academic
+Air conditioning control panel unresponsive in CAD Lab,Medium,Technical
+Registration portal crashed during enrollment for Central Library,High,Academic
+Broken window glass scattered in Chemistry Lab,High,Safety
+Biohazard waste not disposed of properly in Sports Ground,High,Safety
+Not enough seating for students in Central Library,Medium,Academic
+Library portal showing incorrect late fees for MBA Block students,Medium,Academic
+UPS battery dead in Research Lab,High,Technical
+Water cooler completely dry in Block B Entrance,Medium,Facility
+Campus shuttle bus frequently arriving late,Low,Facility
+Garbage overflowing in Recreation Room bins,Low,Facility
+Stray dog roaming dangerously near Main Auditorium,Medium,Safety
+Loud construction noise disturbing Common TV Room,Medium,Hostel
+Unsecured heavy equipment in Server Room,High,Safety
+Elevator buttons missing in Gymnasium,Medium,Facility
+Mess food found with insects in Boys Hostel Wing C,High,Hostel
+AC unit making loud rattling noise in Main Corridor,Low,Facility
+Software license expired on PCs in Faculty Cabin,Medium,Technical
+Milk served is spoiled in Common TV Room,High,Hostel
+Drinking water tastes metallic in Common TV Room,Medium,Hostel
+Air conditioning control panel unresponsive in Seminar Room,Medium,Technical
+Placement cell portal not sending OTP emails,High,Technical
+Registration portal crashed during enrollment for Department of Physics,High,Academic
+Unsecured heavy equipment in Admin Building,High,Safety
+Loud construction noise disturbing Boys Hostel Wing C,Medium,Hostel
+Projector bulb fused in Faculty Cabin,Medium,Technical
+Audio system completely mute in Faculty Cabin,Medium,Technical
+Biometric attendance scanner offline in Seminar Room,High,Technical
+Whiteboard deeply scratched in Ground Floor Washroom,Low,Facility
+Ethernet port not working in Media Room,Medium,Technical
+Strange chemical smell from Cafeteria Kitchen,High,Safety
+Emergency exit door stuck in Admin Building,High,Safety
+Smoke detector continuously beeping in Basement Parking,Medium,Safety
+Reference books completely unavailable for Examination Hall,Medium,Academic
+Exposed electrical wires hanging in Cafeteria Kitchen,High,Safety
+Washing machine entirely broken in Girls Hostel Mess,Medium,Hostel
+Biometric attendance scanner offline in CAD Lab,High,Technical
+Broken window glass scattered in Library Archives,High,Safety
+Drinking water filter choked in Staff Room,Medium,Facility
+Loud event disturbing lectures in Student Affairs Office,Medium,Academic
+Several broken chairs left in Sports Complex,Low,Facility
+Library portal showing incorrect late fees for Dean's Office students,Medium,Academic
+Exam schedule conflict announced in Registrar Office,High,Academic
+Wrong timetable pasted on board in Dean's Office,Medium,Academic
+Professor unavailable for scheduled doubt session in Math Department,Medium,Academic
+Strange chemical smell from Library Archives,High,Safety
+Server unreachable from Faculty Cabin,High,Technical
+Room cleaning staff skipped Girls Hostel Mess,Low,Hostel
+Reference books completely unavailable for Registrar Office,Medium,Academic
+Biohazard waste not disposed of properly in Admin Building,High,Safety
+Foul smell of gas near Main Auditorium,High,Safety
+Library fines calculation logic is incorrect,Low,Academic
+Water cooler completely dry in Staircase C,Medium,Facility
+Frequent power cuts specifically in Boys Hostel Wing C,High,Hostel
+No lighting in emergency stairwell of Chemistry Lab,High,Safety
+Slippery floor with no warning sign in Main Gate,Medium,Safety
+Registration portal crashed during enrollment for Registrar Office,High,Academic
+Exposed electrical wires hanging in Library Archives,High,Safety
+Exposed electrical wires hanging in Basement Parking,High,Safety
+Curtains missing from Hostel Reading Room,Low,Hostel
+No lighting in emergency stairwell of Main Gate,High,Safety
+Water cooler completely dry in Ground Floor Washroom,Medium,Facility
+Stray cats entering Hostel Room 302,Low,Hostel
+Washing machine entirely broken in Common TV Room,Medium,Hostel
+Room cleaning staff skipped Hostel Reading Room,Low,Hostel
+Ethernet port not working in Faculty Cabin,Medium,Technical
+AC unit making loud rattling noise in Staircase C,Low,Facility
+Roof tiles falling off near Sports Ground,High,Safety
+Sparks coming from socket in Chemistry Lab,High,Safety
+Strange chemical smell from Main Auditorium,High,Safety
+Elevator dropping suddenly by a few inches in Main Auditorium,High,Safety
+Elevator buttons missing in Sports Complex,Medium,Facility
+Stray cats entering Warden Office,Low,Hostel
+Reference books completely unavailable for Department of Physics,Medium,Academic
+Wardrobe lock broken in Common TV Room,Low,Hostel
+Ceiling fan regulator broken in Gymnasium,Low,Facility
+Wrong timetable pasted on board in Math Department,Medium,Academic
+Broken window glass scattered in Basement Parking,High,Safety
+Constant internet fluctuations in CAD Lab,Medium,Technical
+Not enough seating for students in Math Department,Medium,Academic
+Server unreachable from Research Lab,High,Technical
+Smoke detector continuously beeping in Cafeteria Kitchen,Medium,Safety
+Reference books completely unavailable for Student Affairs Office,Medium,Academic
+Room cleaning staff skipped Hostel Room 302,Low,Hostel
+Desk surface heavily damaged in Block B Entrance,Low,Facility
+Stray cats entering Guest House,Low,Hostel
+Not enough seating for students in First Year Block,Medium,Academic
+Fee payment gateway is timing out repeatedly,High,Technical
+Drinking water filter choked in Ground Floor Washroom,Medium,Facility
+Roof tiles falling off near Chemistry Lab,High,Safety
+Stray cats entering Girls Hostel Mess,Low,Hostel
+Deep crack observed in the ceiling of Chemistry Lab,High,Safety
+Stray cats entering Hostel Laundry Room,Low,Hostel
+Foul smell coming from washrooms near Gymnasium,Medium,Facility
+Mattress has bedbugs in Girls Hostel Mess,High,Hostel
+Stray dog roaming dangerously near Chemistry Lab,Medium,Safety
+Frequent power cuts specifically in Girls Hostel Mess,High,Hostel
+Exposed electrical wires hanging in Main Auditorium,High,Safety
+Garbage overflowing in Staircase C bins,Low,Facility
+First aid kit empty in Main Auditorium,Medium,Safety
+Library portal showing incorrect late fees for Examination Hall students,Medium,Academic
+Curtains missing from Hostel Gym,Low,Hostel
+Wardrobe lock broken in Hostel Gym,Low,Hostel
+Foul smell coming from washrooms near Staff Room,Medium,Facility
+Foul smell coming from washrooms near Main Corridor,Medium,Facility
+Water logging near Staircase C,Medium,Facility
+Smartboard touch not responding in CAD Lab,Medium,Technical
+Foul smell coming from washrooms near Staircase C,Medium,Facility
+Foul smell of gas near Sports Ground,High,Safety
+CCTV camera completely broken in Sports Ground,Medium,Safety
+Window blinds torn and stuck in Canteen Area,Low,Facility
+Server unreachable from Lecture Hall 4,High,Technical
+Wrong timetable pasted on board in Central Library,Medium,Academic
+Curtains missing from Girls Hostel Mess,Low,Hostel
+Printer out of ink in Media Room,Low,Technical
+Wrong timetable pasted on board in First Year Block,Medium,Academic
+Broken window glass scattered in Cafeteria Kitchen,High,Safety
+Mess worker misbehaving in Hostel Gym,Medium,Hostel
+No lighting in emergency stairwell of Main Auditorium,High,Safety
+Not enough seating for students in Placement Cell,Medium,Academic
+Deep crack observed in the ceiling of Basement Parking,High,Safety
+Deep crack observed in the ceiling of Main Auditorium,High,Safety
+Audio system completely mute in Library Reading Room,Medium,Technical
+Water cooler completely dry in Canteen Area,Medium,Facility
+WiFi router completely dead in Lecture Hall 4,Medium,Technical
+First aid kit empty in Server Room,Medium,Safety
+Balcony drain blocked in Hostel Gym,Medium,Hostel
+Garbage overflowing in Gymnasium bins,Low,Facility
+Loud construction noise disturbing Guest House,Medium,Hostel
+Wrong timetable pasted on board in MBA Block,Medium,Academic
+Microphone heavily echoing in Server Farm,Medium,Technical
+Unsecured heavy equipment in Main Auditorium,High,Safety
+Reference books completely unavailable for Central Library,Medium,Academic
+Notice board fully covered with old notices in Placement Cell,Low,Academic
+Foul smell of gas near Basement Parking,High,Safety
+Printer out of ink in Library Reading Room,Low,Technical
+Ceiling fan regulator broken in Ground Floor Washroom,Low,Facility
+WiFi router completely dead in Library Reading Room,Medium,Technical
+Roof tiles falling off near Library Archives,High,Safety
+Air conditioning control panel unresponsive in Media Room,Medium,Technical
+CCTV camera completely broken in Basement Parking,Medium,Safety
+Air conditioning control panel unresponsive in Computer Lab 1,Medium,Technical
+No hot water in winter morning at Hostel Reading Room,Medium,Hostel
+Room cleaning staff skipped Guest House,Low,Hostel
+Microphone heavily echoing in Seminar Room,Medium,Technical
+Fire extinguisher expired in Admin Building,High,Safety
+Frequent power cuts specifically in Guest House,High,Hostel
+Roof tiles falling off near Server Room,High,Safety
+Loud construction noise disturbing Girls Hostel Mess,Medium,Hostel
+Emergency exit door stuck in Main Gate,High,Safety
+Exam schedule conflict announced in MBA Block,High,Academic
+Unsecured heavy equipment in Cafeteria Kitchen,High,Safety
+AC unit making loud rattling noise in Canteen Area,Low,Facility
+Biohazard waste not disposed of properly in Server Room,High,Safety
+Garbage overflowing in Canteen Area bins,Low,Facility
+Water logging near Canteen Area,Medium,Facility
+WiFi router completely dead in Language Lab,Medium,Technical
+Computers infected with malware in CAD Lab,High,Technical
+Window blinds torn and stuck in Block B Entrance,Low,Facility
+Emergency exit door stuck in Library Archives,High,Safety
+Wardrobe lock broken in Hostel Reading Room,Low,Hostel
+Drinking water filter choked in Block B Entrance,Medium,Facility
+Desk surface heavily damaged in Canteen Area,Low,Facility
+Roof tiles falling off near Hostel Block A,High,Safety
+Biometric attendance scanner offline in Language Lab,High,Technical
+Corridor lights flickering constantly in Staff Room,Low,Facility
+Frequent power cuts specifically in Warden Office,High,Hostel
+Foul smell of gas near Library Archives,High,Safety
+Elevator buttons missing in Canteen Area,Medium,Facility
+Stray cats entering Hostel Gym,Low,Hostel
+Mess food found with insects in Girls Hostel Mess,High,Hostel
+Drinking water filter choked in Main Corridor,Medium,Facility
+Corridor lights flickering constantly in Staircase C,Low,Facility
+Smoke detector continuously beeping in Library Archives,Medium,Safety
+UPS battery dead in Server Farm,High,Technical
+Washing machine entirely broken in Hostel Gym,Medium,Hostel
+Server unreachable from Computer Lab 1,High,Technical
+Ceiling fan regulator broken in Block B Entrance,Low,Facility
+No lighting in emergency stairwell of Library Archives,High,Safety
+Frequent power cuts specifically in Common TV Room,High,Hostel
+Elevator dropping suddenly by a few inches in Admin Building,High,Safety
+Broken window glass scattered in Main Auditorium,High,Safety
+Ethernet port not working in CAD Lab,Medium,Technical
+Registration portal crashed during enrollment for Examination Hall,High,Academic
+Corridor lights flickering constantly in Recreation Room,Low,Facility
+Drinking water tastes metallic in Hostel Gym,Medium,Hostel
+Audio system completely mute in Computer Lab 1,Medium,Technical
+Unsecured heavy equipment in Library Archives,High,Safety
+Exam schedule conflict announced in First Year Block,High,Academic
+Curtains missing from Common TV Room,Low,Hostel
+Loud construction noise disturbing Hostel Reading Room,Medium,Hostel
+Wardrobe lock broken in Boys Hostel Wing C,Low,Hostel
+CCTV camera completely broken in Chemistry Lab,Medium,Safety
+Corridor lights flickering constantly in Gymnasium,Low,Facility
+Pest control needed urgently in Recreation Room,Medium,Facility
+Lab manual outdated for Department of Physics practicals,Low,Academic
+Roof tiles falling off near Main Auditorium,High,Safety
+Elevator buttons missing in Ground Floor Washroom,Medium,Facility
+Constant internet fluctuations in Library Reading Room,Medium,Technical
+WiFi router completely dead in Media Room,Medium,Technical
+Roof tiles falling off near Admin Building,High,Safety
+Foul smell of gas near Cafeteria Kitchen,High,Safety
+Elevator buttons missing in Visitor Lounge,Medium,Facility
+No lighting in emergency stairwell of Basement Parking,High,Safety
+AC unit making loud rattling noise in Recreation Room,Low,Facility
+Loud event disturbing lectures in Placement Cell,Medium,Academic
+Balcony drain blocked in Hostel Reading Room,Medium,Hostel
+Library portal showing incorrect late fees for Student Affairs Office students,Medium,Academic
+Not enough seating for students in Registrar Office,Medium,Academic
+Sparks coming from socket in Server Room,High,Safety
+UPS battery dead in CAD Lab,High,Technical
+Broken window glass scattered in Hostel Block A,High,Safety
+WiFi router completely dead in Seminar Room,Medium,Technical
+Ceiling fan regulator broken in Recreation Room,Low,Facility
+Air conditioning control panel unresponsive in Lecture Hall 4,Medium,Technical
+Slippery floor with no warning sign in Main Auditorium,Medium,Safety
+Air conditioning control panel unresponsive in Server Farm,Medium,Technical
+Loud construction noise disturbing Hostel Laundry Room,Medium,Hostel
+Emergency exit door stuck in Basement Parking,High,Safety
+Stray dog roaming dangerously near Sports Ground,Medium,Safety
+Milk served is spoiled in Warden Office,High,Hostel
+Professor unavailable for scheduled doubt session in Student Affairs Office,Medium,Academic
+Drinking water filter choked in Recreation Room,Medium,Facility
+Strange chemical smell from Basement Parking,High,Safety
+Library portal showing incorrect late fees for Placement Cell students,Medium,Academic
+Emergency exit door stuck in Cafeteria Kitchen,High,Safety
+Several broken chairs left in Visitor Lounge,Low,Facility
+Microphone heavily echoing in CAD Lab,Medium,Technical
+Projector bulb fused in Lecture Hall 4,Medium,Technical
+Washing machine entirely broken in Hostel Laundry Room,Medium,Hostel
+Wardrobe lock broken in Warden Office,Low,Hostel
+Whiteboard deeply scratched in Staff Room,Low,Facility
+Foul smell of gas near Hostel Block A,High,Safety
+Computers infected with malware in Lecture Hall 4,High,Technical
+Water cooler completely dry in Visitor Lounge,Medium,Facility
+Whiteboard deeply scratched in Main Corridor,Low,Facility
+Emergency exit door stuck in Main Auditorium,High,Safety
+Window blinds torn and stuck in Gymnasium,Low,Facility
+Ceiling fan regulator broken in Canteen Area,Low,Facility
+No hot water in winter morning at Hostel Gym,Medium,Hostel
+Window blinds torn and stuck in Staff Room,Low,Facility
+Chalk and dusters missing from Examination Hall,Low,Academic
+Computers infected with malware in Seminar Room,High,Technical
+AC unit making loud rattling noise in Staff Room,Low,Facility
+Not enough seating for students in Student Affairs Office,Medium,Academic
+WiFi router completely dead in CAD Lab,Medium,Technical
+Elevator buttons missing in Block B Entrance,Medium,Facility
+Smartboard touch not responding in Media Room,Medium,Technical
+No lighting in emergency stairwell of Sports Ground,High,Safety
+Chalk and dusters missing from Placement Cell,Low,Academic
+Registration portal crashed during enrollment for Placement Cell,High,Academic
+Mess worker misbehaving in Hostel Room 302,Medium,Hostel
+Registration portal crashed during enrollment for Student Affairs Office,High,Academic
+Balcony drain blocked in Hostel Laundry Room,Medium,Hostel
+Lab manual outdated for First Year Block practicals,Low,Academic
+Whiteboard deeply scratched in Staircase C,Low,Facility
+Elevator buttons missing in Staff Room,Medium,Facility
+Plumbing pipe burst flooding the pathway,High,Facility
+Emergency exit door stuck in Hostel Block A,High,Safety
+Pest control needed urgently in Staircase C,Medium,Facility
+Loud event disturbing lectures in Math Department,Medium,Academic
+Exam schedule conflict announced in Math Department,High,Academic
+Loud construction noise disturbing Hostel Terrace,Medium,Hostel
+CCTV camera completely broken in Admin Building,Medium,Safety
+Reference books completely unavailable for Placement Cell,Medium,Academic
+Balcony drain blocked in Hostel Room 302,Medium,Hostel
+Balcony drain blocked in Common TV Room,Medium,Hostel
+Projector bulb fused in Language Lab,Medium,Technical
+Constant internet fluctuations in Media Room,Medium,Technical
+Sparks coming from socket in Admin Building,High,Safety
+Elevator buttons missing in Staircase C,Medium,Facility
+Registration portal crashed during enrollment for Math Department,High,Academic
+Mess worker misbehaving in Girls Hostel Mess,Medium,Hostel
+Milk served is spoiled in Hostel Gym,High,Hostel
+Gym equipment rusty and unsafe to use,Medium,Facility
+Curtains missing from Guest House,Low,Hostel
+Notice board fully covered with old notices in Department of Physics,Low,Academic
+Audio system completely mute in Language Lab,Medium,Technical
+Frequent power cuts specifically in Hostel Terrace,High,Hostel
+WiFi router completely dead in Research Lab,Medium,Technical
+Fire extinguisher expired in Sports Ground,High,Safety
+Balcony drain blocked in Boys Hostel Wing C,Medium,Hostel
+Exposed electrical wires hanging in Server Room,High,Safety
+Smartboard touch not responding in Faculty Cabin,Medium,Technical
+Deep crack observed in the ceiling of Hostel Block A,High,Safety
+CCTV camera completely broken in Main Auditorium,Medium,Safety
+Mattress has bedbugs in Common TV Room,High,Hostel
+Slippery floor with no warning sign in Hostel Block A,Medium,Safety
+Milk served is spoiled in Hostel Room 302,High,Hostel
+Constant internet fluctuations in Server Farm,Medium,Technical
+Emergency exit door stuck in Chemistry Lab,High,Safety
+Drinking water tastes metallic in Girls Hostel Mess,Medium,Hostel
+Drinking water tastes metallic in Hostel Terrace,Medium,Hostel
+Frequent power cuts specifically in Hostel Reading Room,High,Hostel
+Elevator dropping suddenly by a few inches in Hostel Block A,High,Safety
+Notice board fully covered with old notices in Student Affairs Office,Low,Academic
+Software license expired on PCs in Library Reading Room,Medium,Technical
+Deep crack observed in the ceiling of Library Archives,High,Safety
+Pest control needed urgently in Block B Entrance,Medium,Facility
+Computers infected with malware in Faculty Cabin,High,Technical
+Stray dog roaming dangerously near Main Gate,Medium,Safety
+Mess worker misbehaving in Boys Hostel Wing C,Medium,Hostel
+Ceiling fan regulator broken in Staircase C,Low,Facility
+Several broken chairs left in Canteen Area,Low,Facility
+Ethernet port not working in Library Reading Room,Medium,Technical
+Software license expired on PCs in CAD Lab,Medium,Technical
+Printer out of ink in Lecture Hall 4,Low,Technical
+Milk served is spoiled in Boys Hostel Wing C,High,Hostel
+Washing machine entirely broken in Boys Hostel Wing C,Medium,Hostel
+Pest control needed urgently in Gymnasium,Medium,Facility
+Software license expired on PCs in Computer Lab 1,Medium,Technical
+Room cleaning staff skipped Hostel Terrace,Low,Hostel
+No hot water in winter morning at Guest House,Medium,Hostel
+Drinking water tastes metallic in Hostel Laundry Room,Medium,Hostel
+First aid kit empty in Admin Building,Medium,Safety
+Stray cats entering Common TV Room,Low,Hostel
+UPS battery dead in Lecture Hall 4,High,Technical
+Foul smell coming from washrooms near Visitor Lounge,Medium,Facility
+Exposed electrical wires hanging in Main Gate,High,Safety
+WiFi router completely dead in Server Farm,Medium,Technical
+Slippery floor with no warning sign in Server Room,Medium,Safety
+UPS battery dead in Computer Lab 1,High,Technical
+Audio system completely mute in Server Farm,Medium,Technical
+Assignment submission link not working for Dean's Office,High,Academic
+Computers infected with malware in Computer Lab 1,High,Technical
+Projector bulb fused in Library Reading Room,Medium,Technical
+Water logging near Block B Entrance,Medium,Facility
+Room cleaning staff skipped Boys Hostel Wing C,Low,Hostel
+Chalk and dusters missing from Registrar Office,Low,Academic
+No hot water in winter morning at Common TV Room,Medium,Hostel
+Strange chemical smell from Sports Ground,High,Safety
+Computers infected with malware in Media Room,High,Technical
+Stray dog roaming dangerously near Cafeteria Kitchen,Medium,Safety
+Air conditioning control panel unresponsive in Research Lab,Medium,Technical
+CCTV camera completely broken in Hostel Block A,Medium,Safety
+No hot water in winter morning at Hostel Laundry Room,Medium,Hostel
+Registration portal crashed during enrollment for MBA Block,High,Academic
+Software license expired on PCs in Server Farm,Medium,Technical
+No hot water in winter morning at Warden Office,Medium,Hostel
+Microphone heavily echoing in Computer Lab 1,Medium,Technical
+Unsecured heavy equipment in Main Gate,High,Safety
+Garbage overflowing in Main Corridor bins,Low,Facility
+Reference books completely unavailable for First Year Block,Medium,Academic
+Smoke detector continuously beeping in Admin Building,Medium,Safety
+Mess food found with insects in Hostel Room 302,High,Hostel
+Stray dog roaming dangerously near Server Room,Medium,Safety
+Curtains missing from Hostel Terrace,Low,Hostel
+Slippery floor with no warning sign in Basement Parking,Medium,Safety
+Loud event disturbing lectures in Examination Hall,Medium,Academic
+Notice board fully covered with old notices in Registrar Office,Low,Academic
+Assignment submission link not working for MBA Block,High,Academic
+Slippery floor with no warning sign in Cafeteria Kitchen,Medium,Safety
+Mess worker misbehaving in Hostel Laundry Room,Medium,Hostel
+Notice board fully covered with old notices in First Year Block,Low,Academic
+Washing machine entirely broken in Hostel Room 302,Medium,Hostel
+Broken window glass scattered in Sports Ground,High,Safety
+CCTV camera completely broken in Server Room,Medium,Safety
+Exam schedule conflict announced in Dean's Office,High,Academic
+Room cleaning staff skipped Hostel Laundry Room,Low,Hostel
+Wardrobe lock broken in Hostel Terrace,Low,Hostel
+Frequent power cuts specifically in Hostel Gym,High,Hostel
+AC unit making loud rattling noise in Ground Floor Washroom,Low,Facility
+Software license expired on PCs in Research Lab,Medium,Technical
+No hot water in winter morning at Girls Hostel Mess,Medium,Hostel
+Several broken chairs left in Ground Floor Washroom,Low,Facility
+Mattress has bedbugs in Hostel Terrace,High,Hostel
+No hot water in winter morning at Boys Hostel Wing C,Medium,Hostel
+Desk surface heavily damaged in Main Corridor,Low,Facility
+Wrong timetable pasted on board in Registrar Office,Medium,Academic
+Biometric attendance scanner offline in Library Reading Room,High,Technical
+Curtains missing from Warden Office,Low,Hostel
+Milk served is spoiled in Hostel Laundry Room,High,Hostel
+Mattress has bedbugs in Hostel Laundry Room,High,Hostel
+Smartboard touch not responding in Library Reading Room,Medium,Technical
+Mattress has bedbugs in Guest House,High,Hostel
+Sparks coming from socket in Cafeteria Kitchen,High,Safety
+Water cooler completely dry in Sports Complex,Medium,Facility
+Smartboard touch not responding in Research Lab,Medium,Technical
+Wrong timetable pasted on board in Placement Cell,Medium,Academic
+Corridor lights flickering constantly in Visitor Lounge,Low,Facility
+Stray dog roaming dangerously near Basement Parking,Medium,Safety
+Exam schedule conflict announced in Central Library,High,Academic
+Wrong timetable pasted on board in Department of Physics,Medium,Academic
+Mattress has bedbugs in Boys Hostel Wing C,High,Hostel
+Loud construction noise disturbing Hostel Gym,Medium,Hostel
+Ceiling fan regulator broken in Visitor Lounge,Low,Facility
+Fire extinguisher expired in Server Room,High,Safety
+Emergency exit door stuck in Server Room,High,Safety
+Room cleaning staff skipped Hostel Gym,Low,Hostel
+Microphone heavily echoing in Language Lab,Medium,Technical
+Corridor lights flickering constantly in Canteen Area,Low,Facility
+Air conditioning control panel unresponsive in Library Reading Room,Medium,Technical
+Window blinds torn and stuck in Ground Floor Washroom,Low,Facility
+Unsecured heavy equipment in Basement Parking,High,Safety
+Stray dog roaming dangerously near Library Archives,Medium,Safety
+Biometric attendance scanner offline in Faculty Cabin,High,Technical
+Professor unavailable for scheduled doubt session in Placement Cell,Medium,Academic
+Reference books completely unavailable for Math Department,Medium,Academic
+Air conditioning control panel unresponsive in Language Lab,Medium,Technical
+AC unit making loud rattling noise in Sports Complex,Low,Facility
+UPS battery dead in Language Lab,High,Technical
+WiFi router completely dead in Faculty Cabin,Medium,Technical
+Foul smell coming from washrooms near Sports Complex,Medium,Facility
+Projector bulb fused in Seminar Room,Medium,Technical
+Sparks coming from socket in Library Archives,High,Safety
+Mess food found with insects in Guest House,High,Hostel
+Insufficient plates in mess during lunch hour,Medium,Hostel
+Milk served is spoiled in Guest House,High,Hostel
+Desk surface heavily damaged in Staircase C,Low,Facility
+Drinking water tastes metallic in Boys Hostel Wing C,Medium,Hostel
+Sparks coming from socket in Sports Ground,High,Safety
+Loud event disturbing lectures in Registrar Office,Medium,Academic
+Water logging near Ground Floor Washroom,Medium,Facility
+Smoke detector continuously beeping in Server Room,Medium,Safety
+Slippery floor with no warning sign in Library Archives,Medium,Safety
+Wrong timetable pasted on board in Examination Hall,Medium,Academic
+No hot water in winter morning at Hostel Room 302,Medium,Hostel
+Dogs barking continuously near hostel at night,Medium,Hostel
+Window blinds torn and stuck in Staircase C,Low,Facility
+Several broken chairs left in Staff Room,Low,Facility
+Software license expired on PCs in Language Lab,Medium,Technical
+Fire extinguisher expired in Chemistry Lab,High,Safety
+Room cleaning staff skipped Common TV Room,Low,Hostel
+Water cooler completely dry in Recreation Room,Medium,Facility
+Biohazard waste not disposed of properly in Basement Parking,High,Safety
+Wardrobe lock broken in Hostel Laundry Room,Low,Hostel
+Assignment submission link not working for Central Library,High,Academic
+Library portal showing incorrect late fees for Department of Physics students,Medium,Academic
+Desk surface heavily damaged in Gymnasium,Low,Facility
+Wrong timetable pasted on board in Student Affairs Office,Medium,Academic
+Sparks coming from socket in Main Auditorium,High,Safety
+Curtains missing from Hostel Room 302,Low,Hostel
+First aid kit empty in Basement Parking,Medium,Safety
+Projector bulb fused in Research Lab,Medium,Technical
+UPS battery dead in Library Reading Room,High,Technical
+Loud event disturbing lectures in Dean's Office,Medium,Academic
+CCTV camera completely broken in Main Gate,Medium,Safety
+Balcony drain blocked in Warden Office,Medium,Hostel
+Whiteboard deeply scratched in Gymnasium,Low,Facility
+Water logging near Main Corridor,Medium,Facility
+Projector bulb fused in Media Room,Medium,Technical
+Printer out of ink in Language Lab,Low,Technical
+Room cleaning staff skipped Warden Office,Low,Hostel
+Microphone heavily echoing in Research Lab,Medium,Technical
+Mess food found with insects in Hostel Terrace,High,Hostel
+Balcony drain blocked in Girls Hostel Mess,Medium,Hostel
+Unsecured heavy equipment in Hostel Block A,High,Safety
+Professor unavailable for scheduled doubt session in Registrar Office,Medium,Academic
+Exposed electrical wires hanging in Admin Building,High,Safety
+Fire extinguisher expired in Cafeteria Kitchen,High,Safety
+Roof tiles falling off near Main Gate,High,Safety
+Strange chemical smell from Main Gate,High,Safety
+Balcony drain blocked in Hostel Terrace,Medium,Hostel
+Whiteboard deeply scratched in Sports Complex,Low,Facility
+Deep crack observed in the ceiling of Admin Building,High,Safety
+Wardrobe lock broken in Girls Hostel Mess,Low,Hostel
+Constant internet fluctuations in Research Lab,Medium,Technical
+Ethernet port not working in Computer Lab 1,Medium,Technical
+Chalk and dusters missing from Dean's Office,Low,Academic
+Not enough seating for students in Department of Physics,Medium,Academic
+AC unit making loud rattling noise in Gymnasium,Low,Facility
+Projector bulb fused in Computer Lab 1,Medium,Technical
+Smartboard touch not responding in Language Lab,Medium,Technical
+Pest control needed urgently in Canteen Area,Medium,Facility
+UPS battery dead in Media Room,High,Technical
+Strange chemical smell from Hostel Block A,High,Safety
+First aid kit empty in Sports Ground,Medium,Safety
+Biohazard waste not disposed of properly in Library Archives,High,Safety
+Mess worker misbehaving in Guest House,Medium,Hostel
+Foul smell of gas near Server Room,High,Safety
+Smartboard touch not responding in Lecture Hall 4,Medium,Technical
+Drinking water filter choked in Canteen Area,Medium,Facility
+Air conditioning control panel unresponsive in Faculty Cabin,Medium,Technical
+No lighting in emergency stairwell of Cafeteria Kitchen,High,Safety
+Exam schedule conflict announced in Placement Cell,High,Academic
+Milk served is spoiled in Hostel Reading Room,High,Hostel
+Elevator dropping suddenly by a few inches in Library Archives,High,Safety
+Garbage overflowing in Ground Floor Washroom bins,Low,Facility
+Whiteboard deeply scratched in Block B Entrance,Low,Facility
+Reference books completely unavailable for MBA Block,Medium,Academic
+Desk surface heavily damaged in Ground Floor Washroom,Low,Facility
+Deep crack observed in the ceiling of Server Room,High,Safety
+Not enough seating for students in MBA Block,Medium,Academic
+Notice board fully covered with old notices in Examination Hall,Low,Academic
+Water logging near Visitor Lounge,Medium,Facility
+Chalk and dusters missing from Department of Physics,Low,Academic
+Window blinds torn and stuck in Sports Complex,Low,Facility
+Printer out of ink in CAD Lab,Low,Technical
+Elevator dropping suddenly by a few inches in Basement Parking,High,Safety
+Fire extinguisher expired in Library Archives,High,Safety
+Loud construction noise disturbing Hostel Room 302,Medium,Hostel
+Microphone heavily echoing in Media Room,Medium,Technical
+Ethernet port not working in Lecture Hall 4,Medium,Technical
+Stray cats entering Hostel Terrace,Low,Hostel
+Pest control needed urgently in Main Corridor,Medium,Facility
+Mattress has bedbugs in Hostel Reading Room,High,Hostel
+Exposed electrical wires hanging in Hostel Block A,High,Safety
+Elevator dropping suddenly by a few inches in Chemistry Lab,High,Safety
+Biometric attendance scanner offline in Server Farm,High,Technical
+No lighting in emergency stairwell of Admin Building,High,Safety
+Foul smell coming from washrooms near Canteen Area,Medium,Facility
+Drinking water filter choked in Visitor Lounge,Medium,Facility
+Frequent power cuts specifically in Hostel Room 302,High,Hostel
+Curtains missing from Hostel Laundry Room,Low,Hostel
+Computers infected with malware in Library Reading Room,High,Technical
+Window blinds torn and stuck in Recreation Room,Low,Facility
+Professor unavailable for scheduled doubt session in Central Library,Medium,Academic
+Slippery floor with no warning sign in Chemistry Lab,Medium,Safety
+Biohazard waste not disposed of properly in Cafeteria Kitchen,High,Safety
+Elevator buttons missing in Recreation Room,Medium,Facility
+Registration portal crashed during enrollment for Dean's Office,High,Academic
+Not enough seating for students in Examination Hall,Medium,Academic
+Drinking water tastes metallic in Warden Office,Medium,Hostel
+Ethernet port not working in Language Lab,Medium,Technical
+Deep crack observed in the ceiling of Main Gate,High,Safety
+Desk surface heavily damaged in Staff Room,Low,Facility
+Balcony drain blocked in Guest House,Medium,Hostel
+Slippery floor with no warning sign in Sports Ground,Medium,Safety
+Audio system completely mute in Seminar Room,Medium,Technical
+Fire extinguisher expired in Hostel Block A,High,Safety
+Foul smell of gas near Chemistry Lab,High,Safety
+Corridor lights flickering constantly in Main Corridor,Low,Facility
+Garbage overflowing in Sports Complex bins,Low,Facility
+First aid kit empty in Cafeteria Kitchen,Medium,Safety
+Lab manual outdated for Math Department practicals,Low,Academic
+AC unit making loud rattling noise in Block B Entrance,Low,Facility
+Library portal showing incorrect late fees for Central Library students,Medium,Academic
+CCTV camera completely broken in Cafeteria Kitchen,Medium,Safety
+Registration portal crashed during enrollment for First Year Block,High,Academic
+Washing machine entirely broken in Guest House,Medium,Hostel
+Exam schedule conflict announced in Examination Hall,High,Academic
+Ethernet port not working in Seminar Room,Medium,Technical
+Washing machine entirely broken in Hostel Reading Room,Medium,Hostel
+Lab manual outdated for Placement Cell practicals,Low,Academic
+Ethernet port not working in Server Farm,Medium,Technical
+Corridor lights flickering constantly in Sports Complex,Low,Facility
+Server unreachable from Language Lab,High,Technical
+WiFi router completely dead in Computer Lab 1,Medium,Technical
+Several broken chairs left in Block B Entrance,Low,Facility
+Mattress has bedbugs in Hostel Room 302,High,Hostel
+Smartboard touch not responding in Server Farm,Medium,Technical
+Washing machine entirely broken in Hostel Terrace,Medium,Hostel
+Foul smell of gas near Main Gate,High,Safety
+Desk surface heavily damaged in Recreation Room,Low,Facility
+Corridor lights flickering constantly in Block B Entrance,Low,Facility
+Biometric attendance scanner offline in Research Lab,High,Technical
+Broken window glass scattered in Main Gate,High,Safety
+Slippery floor with no warning sign in Admin Building,Medium,Safety
+Constant internet fluctuations in Seminar Room,Medium,Technical
+Notice board fully covered with old notices in MBA Block,Low,Academic
+Loud event disturbing lectures in Central Library,Medium,Academic
+No lighting in emergency stairwell of Hostel Block A,High,Safety
+Projector bulb fused in Server Farm,Medium,Technical
+Elevator buttons missing in Main Corridor,Medium,Facility
+Chalk and dusters missing from First Year Block,Low,Academic
+Unsecured heavy equipment in Chemistry Lab,High,Safety
+Whiteboard deeply scratched in Visitor Lounge,Low,Facility
+Smartboard touch not responding in Seminar Room,Medium,Technical
+Water logging near Sports Complex,Medium,Facility
+Mattress has bedbugs in Hostel Gym,High,Hostel
+Lab manual outdated for MBA Block practicals,Low,Academic
+Biometric attendance scanner offline in Media Room,High,Technical
+Projector bulb fused in CAD Lab,Medium,Technical
+Printer out of ink in Research Lab,Low,Technical
+Water logging near Staff Room,Medium,Facility
+Professor unavailable for scheduled doubt session in Examination Hall,Medium,Academic
+First aid kit empty in Main Gate,Medium,Safety
+Elevator dropping suddenly by a few inches in Server Room,High,Safety
+Smoke detector continuously beeping in Hostel Block A,Medium,Safety
+Sparks coming from socket in Main Gate,High,Safety
+Student ID cards printing delayed by months,Low,Academic
+Security guards not present at main gate at night,High,Safety
+Fire extinguisher expired in Main Gate,High,Safety
+Foul smell coming from washrooms near Ground Floor Washroom,Medium,Facility
+Constant internet fluctuations in Computer Lab 1,Medium,Technical
+Notice board fully covered with old notices in Dean's Office,Low,Academic
+Assignment submission link not working for Examination Hall,High,Academic
+Water logging near Gymnasium,Medium,Facility
+Server unreachable from CAD Lab,High,Technical
+Pest control needed urgently in Staff Room,Medium,Facility
+Chalk and dusters missing from Math Department,Low,Academic
+Wardrobe lock broken in Hostel Room 302,Low,Hostel
+Chalk and dusters missing from Central Library,Low,Academic
+Chalk and dusters missing from MBA Block,Low,Academic
+Loud event disturbing lectures in MBA Block,Medium,Academic
+Ceiling fan regulator broken in Staff Room,Low,Facility
+Drinking water filter choked in Gymnasium,Medium,Facility
+Frequent power cuts specifically in Hostel Laundry Room,High,Hostel
+Printer out of ink in Faculty Cabin,Low,Technical
+Biohazard waste not disposed of properly in Main Auditorium,High,Safety
+Microphone heavily echoing in Library Reading Room,Medium,Technical
+Ceiling fan regulator broken in Sports Complex,Low,Facility
+Lab manual outdated for Examination Hall practicals,Low,Academic
+Mess worker misbehaving in Hostel Terrace,Medium,Hostel
+Computers infected with malware in Server Farm,High,Technical
+Biohazard waste not disposed of properly in Main Gate,High,Safety
+Professor unavailable for scheduled doubt session in First Year Block,Medium,Academic
+Smoke detector continuously beeping in Main Gate,Medium,Safety
+Notice board fully covered with old notices in Math Department,Low,Academic
+Garbage overflowing in Block B Entrance bins,Low,Facility
+Desk surface heavily damaged in Sports Complex,Low,Facility
+Mess food found with insects in Common TV Room,High,Hostel
+Biohazard waste not disposed of properly in Chemistry Lab,High,Safety
+Whiteboard deeply scratched in Recreation Room,Low,Facility
+Audio system completely mute in Media Room,Medium,Technical
+ERP portal is throwing 500 internal server error,High,Technical
+Mattress has bedbugs in Warden Office,High,Hostel
+Several broken chairs left in Recreation Room,Low,Facility
+Foul smell coming from washrooms near Block B Entrance,Medium,Facility
+Exposed electrical wires hanging in Sports Ground,High,Safety
