@@ -20,7 +20,7 @@ PriorityAI is a Machine Learning-based system that classifies complaints based o
 * Streamlit
 * NLP (TF-IDF)
 
-# How to Run
+# How to Run Click the Link Given Below
+Render Link :- https://priorityai-ymde.onrender.com
 
-pip install pandas scikit-learn streamlit
-python -m streamlit run app.py
+
